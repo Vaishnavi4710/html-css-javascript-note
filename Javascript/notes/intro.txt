@@ -1,0 +1,7 @@
+javaScript;
+javascript is a scripting language with is used to build fuctionalltity od the wed pages
+javascript run i the browser eith the help of JS engine .
+Every browser will have JS engin . for :eg: Goggle chrime  
+have js engine clled v8.
+Java script can run cleint(browser)-clint side javascript 
+javasrript can also run in server

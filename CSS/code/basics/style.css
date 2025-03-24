@@ -1,0 +1,46 @@
+/* div
+{
+    height: 700px; ; width: 1500px; 
+    background-color: pink;
+} */
+ /* .parent
+ {
+    width: 50vw;
+    height: 50vh;
+    background-color: skyblue;
+    border: 5px double black;
+    border-radius: 1000px;
+
+ }
+ .child
+ {
+    width: 50%;
+    height:3em;
+    background-color: pink;
+ } */
+
+ /* p
+ {
+    font-size: 50px;
+    border-left:12px solid pink ;
+
+ }
+ div{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    border-top-left-radius: 80px;
+    border-top-right-radius: 80px;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 30px;
+    
+ }
+ <!---or> */
+ div
+ { 
+    height: 200px;
+    width: 200px;
+    background-color: purple;
+    border-radius: 20px 50px 80px 20px;
+
+ }

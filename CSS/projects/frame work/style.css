@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+.parent{
+    height: 70vh;
+    width: 70vh;
+    display:grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 10px;
+}
+.child{
+    background-color:black;
+    color:white;
+    font-size: 20px;
+    border: 1px solid white;
+}
+.child1{
+    grid-row: 1/1;
+    grid-column: 1/2;
+    background-color: black
+    
+}
