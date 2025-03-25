@@ -1,0 +1,9 @@
+Javascript uses variable to store the values. you can declare a variable
+in three ways i.e,var, let,comments
+eg: var a =5;
+let a=5;
+const a=5;
+
+what is the difference between var,let and const?
+var is a functional scoped variables that can be redeclared,
+reassigned also be used before declartion
