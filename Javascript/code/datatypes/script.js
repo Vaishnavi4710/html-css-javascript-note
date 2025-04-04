@@ -23,3 +23,16 @@ h=1 +  true;
 console.log(h,typeof h);
 
 
+let p = 25 - 'p';
+p=Infinity;
+p = 5.56595;
+console.log(p,typeof p)
+console.log(p.toFixed(3))
+
+
+p =25 ;
+console.log(p.toString(5))
+
+
+p = 10 + -'5'; //+is mandaterory it do add = sub - after +
+console.log(p)
